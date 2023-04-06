@@ -19,4 +19,4 @@ random-cursed-msgs
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-cursed-msg](https://github.com/darkseid7/random-cursed-msg)
 
 # License
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+random-cursed-msgs is released under the [MIT License](https://opensource.org/licenses/MIT).
