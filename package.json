@@ -1,6 +1,6 @@
 {
   "name": "random-cursed-msg",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Random curses messages package",
   "main": "index.js",
   "scripts": {
